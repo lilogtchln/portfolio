@@ -79,8 +79,11 @@ p {
 
 .btn:hover, .btn:focus {
   color: #fff;
+  background-color: #18d26e;
 }
-
+a.btn-primary:hover{
+  background-color: #18d26e;
+}
 .padDiv {
   padding: 30px 20px;
 }
